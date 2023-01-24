@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Charge_Pump_v2.PcbDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UKTDMIDX
+DocumentUniqueId=COTEUTRV
 
 [Configuration1]
 Name=Default Configuration
