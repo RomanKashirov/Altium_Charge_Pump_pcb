@@ -74,6 +74,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COTEUTRV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CHARGE_PUMP_V2\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
