@@ -5,7 +5,7 @@
 @1 .comp_height
 
 # CMP 0
-CMP 1 0.6496063 1.6299213 90 N C11 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
+CMP 1 0.6496063 1.6269684 90 N C11 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
 PRP HelpURL 'https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052'
 PRP Manufacturer 'Yageo'
 PRP Package '0805'
@@ -16,11 +16,11 @@ PRP TypeCapacitor 'Ceramic capacitor'
 PRP TypeDielectric 'X7R'
 PRP Value '0.1?F'
 PRP ValueManufacturerPartNumber 'Ceramic capacitor, 0.1?F, X7R, ±10%, , 0805, -55...+125°C'
-TOP 0 0.6496063 1.6692914 180 N 10 5 C11-1
-TOP 1 0.6496063 1.5905512 180 N 13 2 C11-2
+TOP 0 0.6496063 1.6663385 180 N 10 5 C11-1
+TOP 1 0.6496063 1.5875983 180 N 13 7 C11-2
 #
 # CMP 1
-CMP 4 0.2755906 1.3937008 180 N C10 Tantalum_capacitor,_4.7_F,_16V,__10%,_2Ohm,_case_A_(3216),_-55...+125_C ;0=1,1=0.0630
+CMP 4 0.2696848 1.3937008 180 N C10 Tantalum_capacitor,_4.7_F,_16V,__10%,_2Ohm,_case_A_(3216),_-55...+125_C ;0=1,1=0.0630
 PRP HelpURL 'https://www.digikey.com/product-detail/en/avx-corporation/F930J107KAAAJ6/478-12404-1-ND/9645231'
 PRP Impedance '2Ohm'
 PRP Manufacturer 'AVX'
@@ -33,11 +33,11 @@ PRP TypeDielectric 'X7R'
 PRP Value '4.7?F'
 PRP ValueManufacturerPartNumber 'Tantalum capacitor, 4.7?F, 16V, ±10%, 2Ohm, case A (3216), -55...+125°C'
 PRP Voltage '16V'
-TOP 0 0.2125985 1.3937008 0 N 14 0 C10-1
-TOP 1 0.3385827 1.3937008 0 N 10 6 C10-2
+TOP 0 0.2066927 1.3937008 0 N 14 1 C10-1
+TOP 1 0.3326769 1.3937008 0 N 10 6 C10-2
 #
 # CMP 2
-CMP 1 0.988189 0.496063 270 N C3 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
+CMP 1 0.9704724 0.4970473 270 N C3 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
 PRP HelpURL 'https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052'
 PRP Manufacturer 'Yageo'
 PRP Package '0805'
@@ -48,11 +48,11 @@ PRP TypeCapacitor 'Ceramic capacitor'
 PRP TypeDielectric 'X7R'
 PRP Value '0.1?F'
 PRP ValueManufacturerPartNumber 'Ceramic capacitor, 0.1?F, X7R, ±10%, , 0805, -55...+125°C'
-TOP 0 0.988189 0.4566929 0 N 10 3 C3-1
-TOP 1 0.988189 0.5354331 0 N 13 0 C3-2
+TOP 0 0.9704724 0.4576772 0 N 10 3 C3-1
+TOP 1 0.9704724 0.5364174 0 N 13 10 C3-2
 #
 # CMP 3
-CMP 1 0.988189 0.7893702 270 N C2 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
+CMP 1 0.9704724 0.7992127 270 N C2 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
 PRP HelpURL 'https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052'
 PRP Manufacturer 'Yageo'
 PRP Package '0805'
@@ -63,6 +63,6 @@ PRP TypeCapacitor 'Ceramic capacitor'
 PRP TypeDielectric 'X7R'
 PRP Value '0.1?F'
 PRP ValueManufacturerPartNumber 'Ceramic capacitor, 0.1?F, X7R, ±10%, , 0805, -55...+125°C'
-TOP 0 0.988189 0.7500001 0 N 10 4 C2-1
-TOP 1 0.988189 0.8287403 0 N 13 1 C2-2
+TOP 0 0.9704724 0.7598426 0 N 10 4 C2-1
+TOP 1 0.9704724 0.8385828 0 N 13 5 C2-2
 #
