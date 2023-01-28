@@ -1,0 +1,27 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [PCB1.PcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 13:20:15 On 28.01.2023
