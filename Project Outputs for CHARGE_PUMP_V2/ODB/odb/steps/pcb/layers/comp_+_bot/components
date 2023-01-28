@@ -16,7 +16,7 @@ PRP TypeCapacitor 'Ceramic capacitor'
 PRP TypeDielectric 'X7R'
 PRP Value '0.1?F'
 PRP ValueManufacturerPartNumber 'Ceramic capacitor, 0.1?F, X7R, ±10%, , 0805, -55...+125°C'
-TOP 0 0.6496063 1.6692914 180 N 10 6 C11-1
+TOP 0 0.6496063 1.6692914 180 N 10 5 C11-1
 TOP 1 0.6496063 1.5905512 180 N 13 2 C11-2
 #
 # CMP 1
@@ -34,7 +34,7 @@ PRP Value '4.7?F'
 PRP ValueManufacturerPartNumber 'Tantalum capacitor, 4.7?F, 16V, ±10%, 2Ohm, case A (3216), -55...+125°C'
 PRP Voltage '16V'
 TOP 0 0.2125985 1.3937008 0 N 14 0 C10-1
-TOP 1 0.3385827 1.3937008 0 N 10 5 C10-2
+TOP 1 0.3385827 1.3937008 0 N 10 6 C10-2
 #
 # CMP 2
 CMP 1 0.988189 0.496063 270 N C3 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
@@ -48,8 +48,8 @@ PRP TypeCapacitor 'Ceramic capacitor'
 PRP TypeDielectric 'X7R'
 PRP Value '0.1?F'
 PRP ValueManufacturerPartNumber 'Ceramic capacitor, 0.1?F, X7R, ±10%, , 0805, -55...+125°C'
-TOP 0 0.988189 0.4566929 0 N 10 4 C3-1
-TOP 1 0.988189 0.5354331 0 N 13 1 C3-2
+TOP 0 0.988189 0.4566929 0 N 10 3 C3-1
+TOP 1 0.988189 0.5354331 0 N 13 0 C3-2
 #
 # CMP 3
 CMP 1 0.988189 0.7893702 270 N C2 Ceramic_capacitor,_0.1_F,_X7R,__10%,_,_0805,_-55...+125_C ;0=1,1=0.0177
@@ -63,6 +63,6 @@ PRP TypeCapacitor 'Ceramic capacitor'
 PRP TypeDielectric 'X7R'
 PRP Value '0.1?F'
 PRP ValueManufacturerPartNumber 'Ceramic capacitor, 0.1?F, X7R, ±10%, , 0805, -55...+125°C'
-TOP 0 0.988189 0.7500001 0 N 10 3 C2-1
-TOP 1 0.988189 0.8287403 0 N 13 0 C2-2
+TOP 0 0.988189 0.7500001 0 N 10 4 C2-1
+TOP 1 0.988189 0.8287403 0 N 13 1 C2-2
 #
